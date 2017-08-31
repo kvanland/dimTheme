@@ -1,0 +1,17 @@
+{
+"manifest_version": 2,
+
+"name": "Dim Theme",
+"description": "A dim chrome theme that's easier on the eyes than the default chrome configuration",
+"version": "1.0",
+
+"theme": {
+  "colors": {
+    "frame": [40, 44, 52],
+    "frame_inactive": [100, 100, 100],
+    "tab_background_text": [60, 60, 60],
+    "tab_text": [0, 0, 0],
+    "ntp_background": [40, 44, 52]
+  }
+}
+}
